@@ -76,3 +76,7 @@ Hasil Uji Coba:
 - Alat yang Digunakan: AI / Asisten Chat.
 - Tujuan: Membantu memahami konsep CSS, merapikan struktur tag HTML yang salah, dan menyusun laporan.
 - Verifikasi: Semua saran dan kode dari AI sudah dicoba langsung di browser dan dipastikan berjalan dengan baik.
+
+7. laporan Validator
+   - Before: Terdeteksi warning karena terdapat penggunaan tag <h1> ganda pada judul halaman dan judul bagian pendaftaran
+   After: Mengubah tag judul bagian menjadi <h2>[cite: 8]. Hasil pengecekan bersih (0 Error, 0 Warning)
